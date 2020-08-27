@@ -1,1 +1,1 @@
-# PythonGame
+ABDUCTED is a story and mini shooter game that focuses around the idea of humans vs. aliens. The game offers fully functional character movement, as well as a shooting mechanic. This game follows many platformer-like ideals in the sense of what it takes in order to progress. ABDUCTED is filled with 3 action packed levels that will challenge your survival against aliens, and how well you do against flying laser beams. In order to beat the game, you must defeat all the aliens and take back what is yours.
